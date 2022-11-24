@@ -8,4 +8,6 @@ This is the final project of the [AI-Programming with Python Nanodregree by Udac
 2. Building the command line application
     * Train the model
     * Predict the class of an image
+    
+   WENT AWSOME
 
